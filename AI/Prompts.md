@@ -1,4 +1,5 @@
-https://www.explainthis.io/en/chatgpt
+- https://www.promptingguide.ai/
+- https://www.explainthis.io/en/chatgpt
 
 # Midjourney
 

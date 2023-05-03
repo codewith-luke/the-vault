@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3ab07d1e3c77eed",
+            "id": "3a62bffe5765d554",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS_TS/Node/SSR and RSC.md",
+                "file": "@Useful Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,6 +65,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a14002579a1ed550",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS_TS/Node/SSR and RSC.md",
+                "file": "@Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS_TS/Node/SSR and RSC.md",
+                "file": "@Useful Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS_TS/Node/SSR and RSC.md"
+                "file": "@Useful Links.md"
               }
             }
           }
@@ -149,9 +157,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e3ab07d1e3c77eed",
+  "active": "3a62bffe5765d554",
   "lastOpenFiles": [
+    "JS_TS/Useful JS API & Libs/@Useful Links.md",
+    "@Useful Links.md",
+    "Go/@Useful Links and Libs.md",
+    "Containers/@Useful Links.md",
     "JS_TS/Node/SSR and RSC.md",
+    "AI/Prompts.md",
+    "DSA/@Useful Links and Resources.md",
+    "Go",
     "DSA/Graphs.md",
     "DSA/Strings.md",
     "JS_TS/Node/Streams.md",
@@ -165,7 +180,6 @@
     "DSA/Arrays.md",
     "DSA/Complexity Analysis.md",
     "DSA/LRU Cache.md",
-    "AI/Prompts.md",
     "AI",
     "Go/Go Resources.md",
     "Go/Parser.md",
@@ -174,11 +188,6 @@
     "DSA/Memory.md",
     "JS_TS/TS/Generics/Passing Type Arguments.md",
     "JS_TS/TS/Generics/Art of Type Arguments.md",
-    "JS_TS/TS/Advanced Patterns/Type Predicates and Assertions.md",
-    "JS_TS/Useful JS API & Libs/Useful Links.md",
-    "JS_TS/Useful JS API & Libs/Broadcast Channel API.md",
-    "JS_TS/TS/Generics/@Helpful Uses.md",
-    "JS_TS/TS/Advanced Patterns/@Helpful Advanced Types.md",
     "Linux/NVIM",
     "JS_TS/TS/Advanced Patterns"
   ]
