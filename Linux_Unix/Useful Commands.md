@@ -43,3 +43,21 @@ $(cat apps/distributor/package.json | grep version | head -1 | awk -F: '{ print 
 4) `sed 's/[\",]//g'`: This command uses sed (stream editor) to remove all occurrences of double quotes " and commas , from the version number. It replaces the matched characters with an empty string (i.e., it removes them).
 
 6) `tr -d '[[:space:]]'`: This command uses tr (translate) to delete all whitespace characters (spaces, tabs, and newlines) from the output. It ensures that the version number does not contain any leading or trailing spaces.
+
+# Cleaning Up Disk Space
+
+1) Make use of the inbuilt Disk Analyzer to find out what is taking space
+2) Use Bleachbit to cleanup other cheeky bits
+3) The below will go and get rid of ugly disabled snaps because we use the perfect distro Ubuntu:
+
+```sh
+#!/bin/bash
+# Removes old revisions of snaps
+# CLOSE ALL SNAPS BEFORE RUNNING THIS
+set -eu
+
+LANG=en_US.UTF-8 snap list --all | awk '/disabled/{print $1, $3}' |
+    while read snapname revision; do
+        snap remove "$snapname" --revision="$revision"
+    done
+```
