@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3bed425b2fd0c5a7",
+        "id": "9a776187d987eea2",
         "type": "tabs",
         "children": [
           {
-            "id": "313bf659545994b0",
+            "id": "e3ab07d1e3c77eed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS_TS/Node/Streams.md",
+                "file": "JS_TS/Node/SSR and RSC.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS_TS/Node/Streams.md",
+                "file": "JS_TS/Node/SSR and RSC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS_TS/Node/Streams.md",
+                "file": "JS_TS/Node/SSR and RSC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS_TS/Node/Streams.md"
+                "file": "JS_TS/Node/SSR and RSC.md"
               }
             }
           }
@@ -149,11 +149,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "313bf659545994b0",
+  "active": "e3ab07d1e3c77eed",
   "lastOpenFiles": [
+    "JS_TS/Node/SSR and RSC.md",
+    "DSA/Graphs.md",
+    "DSA/Strings.md",
+    "JS_TS/Node/Streams.md",
     "JS_TS/Node/@NodeJS Overview.md",
     "JS_TS/Node/Design Patterns.md",
-    "JS_TS/Node/Streams.md",
     "JS_TS/Node/Async Control Flow.md",
     "DSA/Stacks and Queues.md",
     "DSA/Linked Lists.md",
@@ -176,9 +179,6 @@
     "JS_TS/Useful JS API & Libs/Broadcast Channel API.md",
     "JS_TS/TS/Generics/@Helpful Uses.md",
     "JS_TS/TS/Advanced Patterns/@Helpful Advanced Types.md",
-    "JS_TS/TS/Generics/Function Overloads.md",
-    "Linux/Useful Packages.md",
-    "Linux/Useful Commands.md",
     "Linux/NVIM",
     "JS_TS/TS/Advanced Patterns"
   ]
