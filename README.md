@@ -1,4 +1,4 @@
-This is the Vault. A bunch of resources, libs and general notes about things I work on and use. 
+This is the [Obsidian](https://obsidian.md/) Vault. A bunch of resources, libs and general notes about things I work on and use. 
 
 I do not like Bookmarks and other forms of tools. This just makes it easier for me to find/remember this. This is my personal library of stuff. Feel free to use it.
 
