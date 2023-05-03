@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Useful Links.md",
+                "file": "Linux_Unix/Linux_Unix.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Useful Links.md",
+                "file": "Linux_Unix/Linux_Unix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Useful Links.md",
+                "file": "Linux_Unix/Linux_Unix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Useful Links.md"
+                "file": "Linux_Unix/Linux_Unix.md"
               }
             }
           }
@@ -159,36 +159,36 @@
   },
   "active": "3a62bffe5765d554",
   "lastOpenFiles": [
-    "JS_TS/Useful JS API & Libs/@Useful Links.md",
+    "Linux_Unix/Useful Commands.md",
+    "Linux_Unix/Useful Packages.md",
+    "Linux_Unix/NVIM/Notes.md",
+    "Linux_Unix/Linux_Unix.md",
+    "JS_TS/JS_TS.md",
+    "JS_TS/TS/Type Transformations/@Type Transformations Overview.md",
+    "JS_TS/TS/@Typescript Overview.md",
+    "JS_TS/Node/Streams.md",
+    "JS_TS/Node/SSR and RSC.md",
+    "JS_TS/Node/Design Patterns.md",
+    "JS_TS/Node/@NodeJS Overview.md",
+    "GRPC/RPC and GRPC.md",
+    "Go/Go.md",
+    "DSA/DSA.md",
+    "DB/Databases.md",
+    "Containers/@Containers Overview.md",
+    "Containers/Containers.md",
+    "Articles/Articles.md",
+    "Articles/Seeding a DB with Docker.md",
+    "AI/AI.md",
+    "AI/Prompts.md",
+    "README.md",
     "@Useful Links.md",
+    "JS_TS/Useful JS API & Libs/@Useful Links.md",
     "Go/@Useful Links and Libs.md",
     "Containers/@Useful Links.md",
-    "JS_TS/Node/SSR and RSC.md",
-    "AI/Prompts.md",
-    "DSA/@Useful Links and Resources.md",
     "Go",
-    "DSA/Graphs.md",
-    "DSA/Strings.md",
-    "JS_TS/Node/Streams.md",
-    "JS_TS/Node/@NodeJS Overview.md",
-    "JS_TS/Node/Design Patterns.md",
-    "JS_TS/Node/Async Control Flow.md",
-    "DSA/Stacks and Queues.md",
-    "DSA/Linked Lists.md",
-    "DSA/Hash Tables.md",
-    "Prompts.md",
-    "DSA/Arrays.md",
-    "DSA/Complexity Analysis.md",
-    "DSA/LRU Cache.md",
     "AI",
-    "Go/Go Resources.md",
-    "Go/Parser.md",
     "Go",
-    "DSA/Binary Tree Preorder Traversal.md",
-    "DSA/Memory.md",
-    "JS_TS/TS/Generics/Passing Type Arguments.md",
-    "JS_TS/TS/Generics/Art of Type Arguments.md",
-    "Linux/NVIM",
+    "Linux_Unix/NVIM",
     "JS_TS/TS/Advanced Patterns"
   ]
 }
