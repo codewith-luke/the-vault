@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DSA/Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DSA/Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DSA/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DSA/Trees.md"
               }
             }
           }
@@ -159,6 +159,10 @@
   },
   "active": "3a62bffe5765d554",
   "lastOpenFiles": [
+    "DB/Postgres/Connecting to Postgres.md",
+    "DSA/Trees.md",
+    "DB/Databases.md",
+    "README.md",
     "Linux_Unix/Linux_Unix.md",
     "Linux_Unix/Useful Commands.md",
     "Linux_Unix/Useful Packages.md",
@@ -173,18 +177,14 @@
     "GRPC/RPC and GRPC.md",
     "Go/Go.md",
     "DSA/DSA.md",
-    "DB/Databases.md",
     "Containers/@Containers Overview.md",
     "Containers/Containers.md",
     "Articles/Articles.md",
     "Articles/Seeding a DB with Docker.md",
     "AI/AI.md",
     "AI/Prompts.md",
-    "README.md",
     "@Useful Links.md",
     "JS_TS/Useful JS API & Libs/@Useful Links.md",
-    "Go/@Useful Links and Libs.md",
-    "Containers/@Useful Links.md",
     "Go",
     "AI",
     "Go",
