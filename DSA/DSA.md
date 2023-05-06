@@ -1,6 +1,6 @@
 The never ending saga of DSA
 
-- [[@Useful Links and Resources]]
+- [[DSA/@Useful Links]]
 - [[Complexity Analysis]]
 - [[Arrays]]
 - [[Hash Tables]]
