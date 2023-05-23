@@ -1,0 +1,49 @@
+2023-05-14 13:08:08 Loading updated app package /home/luker/snap/obsidian/x1/.config/obsidian/obsidian-1.2.8.asar
+
+(obsidian:13497): Gtk-WARNING **: 14:08:08.997: Theme parsing error: gtk.css:1413:23: 'font-feature-settings' is not a valid property name
+
+(obsidian:13497): Gtk-WARNING **: 14:08:08.999: Theme parsing error: gtk.css:3286:25: 'font-feature-settings' is not a valid property name
+
+(obsidian:13497): Gtk-WARNING **: 14:08:09.000: Theme parsing error: gtk.css:3748:23: 'font-feature-settings' is not a valid property name
+2023-05-14 13:08:09 Checking for update using Github
+2023-05-14 13:08:09 Success.
+2023-05-14 13:08:09 Latest version is 1.2.8
+2023-05-14 13:08:09 App is up to date.
+2023-05-14 13:08:17 Loading updated app package /home/luker/snap/obsidian/x1/.config/obsidian/obsidian-1.2.8.asar
+
+(obsidian:13802): Gtk-WARNING **: 14:08:17.279: Theme parsing error: gtk.css:1413:23: 'font-feature-settings' is not a valid property name
+
+(obsidian:13802): Gtk-WARNING **: 14:08:17.281: Theme parsing error: gtk.css:3286:25: 'font-feature-settings' is not a valid property name
+
+(obsidian:13802): Gtk-WARNING **: 14:08:17.281: Theme parsing error: gtk.css:3748:23: 'font-feature-settings' is not a valid property name
+2023-05-14 13:08:17 Checking for update using Github
+2023-05-14 13:08:17 Success.
+2023-05-14 13:08:17 Latest version is 1.2.8
+2023-05-14 13:08:17 App is up to date.
+2023-05-14 13:11:52 Loading updated app package /home/luker/snap/obsidian/x1/.config/obsidian/obsidian-1.2.8.asar
+
+(obsidian:15041): Gtk-WARNING **: 14:11:52.559: Theme parsing error: gtk.css:1413:23: 'font-feature-settings' is not a valid property name
+
+(obsidian:15041): Gtk-WARNING **: 14:11:52.561: Theme parsing error: gtk.css:3286:25: 'font-feature-settings' is not a valid property name
+
+(obsidian:15041): Gtk-WARNING **: 14:11:52.562: Theme parsing error: gtk.css:3748:23: 'font-feature-settings' is not a valid property name
+2023-05-14 13:11:52 Checking for update using Github
+2023-05-14 13:11:52 Success.
+2023-05-14 13:11:52 Latest version is 1.2.8
+2023-05-14 13:11:52 App is up to date.
+2023-05-14 14:11:52 Checking for update using Github
+2023-05-14 14:11:52 Success.
+2023-05-14 14:11:52 Latest version is 1.2.8
+2023-05-14 14:11:52 App is up to date.
+[15041:0514/154547.824834:ERROR:command_buffer_proxy_impl.cc(328)] GPU state invalid after WaitForGetOffsetInRange.
+[15041:0514/154547.825739:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[15041:0514/154547.826404:ERROR:gpu_process_host.cc(969)] GPU process launch failed: error_code=1002
+[15041:0514/154547.826763:ERROR:gpu_process_host.cc(969)] GPU process launch failed: error_code=1002
+[15041:0514/154547.827043:ERROR:gpu_process_host.cc(969)] GPU process launch failed: error_code=1002
+[15041:0514/154547.827320:ERROR:gpu_process_host.cc(969)] GPU process launch failed: error_code=1002
+[15041:0514/154547.827591:ERROR:gpu_process_host.cc(969)] GPU process launch failed: error_code=1002
+[15041:0514/154547.827860:ERROR:gpu_process_host.cc(969)] GPU process launch failed: error_code=1002
+[15041:0514/154547.828379:ERROR:gpu_process_host.cc(969)] GPU process launch failed: error_code=1002
+[15041:0514/154547.828675:ERROR:gpu_process_host.cc(969)] GPU process launch failed: error_code=1002
+[15041:0514/154547.829007:ERROR:gpu_process_host.cc(969)] GPU process launch failed: error_code=1002
+[15041:0514/154547.829016:FATAL:gpu_data_manager_impl_private.cc(447)] GPU process isn't usable. Goodbye.

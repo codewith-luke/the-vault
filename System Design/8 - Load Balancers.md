@@ -1,4 +1,4 @@
-
+sho
 ### Prerequisites
 
 #### Reverse Proxy
@@ -17,11 +17,11 @@ How a load balancer chooses servers when distributing traffic amongst multiple s
 
 ### Hot Spot
 
-When distributing a workload across a set of servers, that workload might be spread unevenly. This can happen if your sharding key or your hashing function are suboptimal, or if your workload is naturally skewed: some servers will receive a lot more traffic than others, thus creating a "hot spot".
+When distributing a workload across a set of servers, that workload might be spread unevenly. This can happen if your sharding key or your hashing function are sub-optimal, or if your workload is naturally skewed: some servers will receive a lot more traffic than others, thus creating a "hot spot".
 
 ### Nginx
 
-Pronounced "engine X"—not "N jinx", Nginx is a very popular webserver that's often used as a reverse proxy and load balancer.
+Pronounced "engine X"—not "N jinx", Nginx is a very popular web server that's often used as a reverse proxy and load balancer.
 
 Learn more: [https://www.nginx.com/](https://www.nginx.com/)
 
