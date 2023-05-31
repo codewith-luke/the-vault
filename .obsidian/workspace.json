@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Unix/Linux_Unix.md",
+                "file": "JS_TS/Node/External Processes (Child).md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "postgres",
+                "query": "args",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux_Unix/Linux_Unix.md",
+                "file": "JS_TS/Node/External Processes (Child).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux_Unix/Linux_Unix.md",
+                "file": "JS_TS/Node/External Processes (Child).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Unix/Linux_Unix.md"
+                "file": "JS_TS/Node/External Processes (Child).md"
               }
             }
           }
@@ -159,39 +159,39 @@
   },
   "active": "3a62bffe5765d554",
   "lastOpenFiles": [
-    "System Design/11 - Replication & Sharding.md",
-    "System Design/10 - Specialized Storage.md",
-    "Articles/Seeding a DB with Docker.md",
-    "DB/Databases.md",
-    "JS_TS/Node/Design Patterns.md",
-    "Go/@Useful Links and Libs.md",
-    "System Design/10 - Relational Databases.md",
-    "System Design/@Glossary.md",
-    "System Design/Glossary.md",
+    "DSA/Trees.md",
+    "JS_TS/Node/External Processes (Child).md",
+    "nohup.out",
+    "Untitled.md",
     "System Design/@Useful Links.md",
+    "System Design/@Glossary.md",
     "System Design/9 - Hashing.md",
-    "Pasted image 20230507140437.png",
     "System Design/8 - Load Balancers.md",
-    "Assets/Pasted image 20230506135625.png",
-    "Assets/Pasted image 20230506141854.png",
     "System Design/7 - Proxies.md",
     "System Design/6 - Caching.md",
-    "System Design/3 - Storage.md",
     "System Design/5 - Availability.md",
     "System Design/4- Latency & Throughput.md",
-    "System Design/1 - Client - Server Model.md",
+    "System Design/3 - Storage.md",
     "System Design/2 - Network Protocols.md",
+    "System Design/11 - Replication & Sharding.md",
+    "System Design/10 - Specialized Storage.md",
+    "System Design/1 - Client - Server Model.md",
+    "System Design",
+    "Pasted image 20230507140437.png",
+    "DSA/@Useful Links.md",
+    "Assets/Pasted image 20230506141854.png",
+    "Assets/Pasted image 20230506135625.png",
     "Assets/Pasted image 20230506122405.png",
     "Assets/Pasted image 20230506122244.png",
-    "System Design/Storage.md",
-    "System Design/Storage",
-    "DSA/@Useful Links.md",
-    "Containers/Kubernetes/@Kubernetes Overview.md",
-    "System Design",
-    "Containers/Docker/Core/1 - Basics.md",
-    "Containers/Docker/Orchestration/1 - Docker Compose.md",
-    "Untitled.md",
-    "Go/Go.md",
+    "DB/Postgres/Connecting to Postgres.md",
+    "DB/Databases.md",
+    "README.md",
+    "Linux_Unix/Linux_Unix.md",
+    "Linux_Unix/Useful Commands.md",
+    "Linux_Unix/Useful Packages.md",
+    "Linux_Unix/NVIM/Notes.md",
+    "JS_TS/JS_TS.md",
+    "JS_TS/TS/Type Transformations/@Type Transformations Overview.md",
     "Go",
     "AI",
     "Go",
