@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Learn.md",
+                "file": "DSA/Problems/Top K Frequent Elements.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Learn.md",
+                "file": "DSA/Problems/Top K Frequent Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Learn.md",
+                "file": "DSA/Problems/Top K Frequent Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Learn.md"
+                "file": "DSA/Problems/Top K Frequent Elements.md"
               }
             }
           },
@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1029.5
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +173,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7888755a5261efeb",
+  "active": "3a62bffe5765d554",
   "lastOpenFiles": [
+    "To Learn.md",
+    "DSA/Problems/Top K Frequent Elements.md",
+    "DSA/Problems",
+    "DSA/Untitled.md",
     "To Learn - Copy.md",
     "Containers/Docker/Security/@Security Overview.md",
     "Containers/Docker/Security/1 - Resources Management.md",
@@ -186,7 +190,6 @@
     "Containers/Docker/Networking/@Networking Overview.md",
     "Containers/Docker/Networking/1 - Bridge Networks.md",
     "README.md",
-    "To Learn.md",
     "Containers/Docker/Core/1 - Basics.md",
     "Containers/Docker/Networking/4 - None Network.md",
     "JS_TS/Node/External Processes (Child).md",
@@ -200,8 +203,6 @@
     "System Design/6 - Caching.md",
     "System Design/5 - Availability.md",
     "System Design/4- Latency & Throughput.md",
-    "System Design/3 - Storage.md",
-    "System Design/2 - Network Protocols.md",
     "System Design",
     "Assets/Pasted image 20230507140437.png",
     "Assets/Pasted image 20230506141854.png",
