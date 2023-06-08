@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a776187d987eea2",
+        "id": "71e0df2e216a98e9",
         "type": "tabs",
         "children": [
           {
-            "id": "3a62bffe5765d554",
+            "id": "20dd4ccb1622efd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/@Useful Links.md",
+                "file": "DSA/Problems/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "er container restart ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/@Useful Links.md",
+                "file": "DSA/Problems/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/@Useful Links.md",
+                "file": "DSA/Problems/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/@Useful Links.md"
+                "file": "DSA/Problems/Binary Search.md"
               }
             }
           },
           {
-            "id": "246c0d09797e921e",
+            "id": "2cf381faedae329d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "28230ec9f5876b71",
+            "id": "fa66516ba8430bf4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,42 +174,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3a62bffe5765d554",
+  "active": "20dd4ccb1622efd7",
   "lastOpenFiles": [
+    "DSA/Problems/Binary Search.md",
     "DSA/Problems/Top K Frequent Elements.md",
+    "DSA/Problems/2 Pointer.md",
+    "Go/Inversion of Control using a Server Register.md",
+    "Assets/Pasted image 20230507140437.png",
+    "JS_TS/Node/External Processes (Child).md",
     "To Learn.md",
     "DSA/Problems",
-    "DSA/Untitled.md",
-    "To Learn - Copy.md",
-    "Containers/Docker/Security/@Security Overview.md",
-    "Containers/Docker/Security/1 - Resources Management.md",
-    "Containers/Docker/Orchestration/2 - Docker Swarm.md",
-    "Containers/Docker/Orchestration/1 - Docker Compose.md",
-    "Containers/Docker/Orchestration/@Orchestraction Overview.md",
-    "Containers/Docker/Networking/5 - Port Publishing.md",
-    "Containers/Docker/Networking/2 - User Defined Networks.md",
-    "Containers/Docker/Networking/@Networking Overview.md",
-    "Containers/Docker/Networking/1 - Bridge Networks.md",
-    "README.md",
-    "Containers/Docker/Core/1 - Basics.md",
-    "Containers/Docker/Networking/4 - None Network.md",
-    "JS_TS/Node/External Processes (Child).md",
-    "DSA/Trees.md",
-    "nohup.out",
-    "System Design/@Useful Links.md",
+    "Go/Go.md",
+    "Containers/Docker/Core/3 - Docker Exec.md",
+    "Containers/Docker/@Docker Overview.md",
+    "Linux_Unix/Linux_Unix.md",
+    "System Design/11 - Replication & Sharding.md",
+    "System Design/10 - Specialized Storage.md",
+    "Articles/Seeding a DB with Docker.md",
+    "DB/Databases.md",
+    "JS_TS/Node/Design Patterns.md",
+    "Go/@Useful Links and Libs.md",
+    "System Design/10 - Relational Databases.md",
     "System Design/@Glossary.md",
+    "System Design/Glossary.md",
+    "System Design/@Useful Links.md",
     "System Design/9 - Hashing.md",
+    "Pasted image 20230507140437.png",
     "System Design/8 - Load Balancers.md",
+    "Assets/Pasted image 20230506135625.png",
+    "Assets/Pasted image 20230506141854.png",
     "System Design/7 - Proxies.md",
     "System Design/6 - Caching.md",
+    "System Design/3 - Storage.md",
     "System Design/5 - Availability.md",
-    "System Design/4- Latency & Throughput.md",
-    "System Design",
-    "Assets/Pasted image 20230507140437.png",
-    "Assets/Pasted image 20230506141854.png",
-    "Assets/Pasted image 20230506135625.png",
     "Assets/Pasted image 20230506122405.png",
     "Assets/Pasted image 20230506122244.png",
+    "System Design/Storage",
+    "System Design",
     "Go",
     "AI",
     "Go",
