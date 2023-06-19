@@ -2,7 +2,7 @@ I am awful at this stuff. So there will be basic notes here.
 
 - [[Useful Packages]]
 - [[Useful Commands]]
-- NVIM [[Notes]]
+- NVIM [[Linux_Unix/NVIM/Notes]]
 
 ## Generating Self Signed Certificates
 
