@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Notes.md",
+                "file": "DSA/Problems/Sliding Window.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/Notes.md",
+                "file": "DSA/Problems/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/Notes.md",
+                "file": "DSA/Problems/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Notes.md"
+                "file": "DSA/Problems/Sliding Window.md"
               }
             }
           },
           {
-            "id": "007d40437e2054e3",
+            "id": "b48434cdabca1a04",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "d3b0b1a5f53aa4a0",
+            "id": "9e3148f0dd131207",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,9 +176,11 @@
   "active": "20dd4ccb1622efd7",
   "lastOpenFiles": [
     "DSA/Problems/Trees.md",
+    "DSA/Problems/Sliding Window.md",
+    "DSA/Binary Tree Preorder Traversal.md",
+    "System Design/12 - Rate Limiting.md",
     "System Design/Notes.md",
     "DSA/Problems/Binary Search.md",
-    "DSA/Binary Tree Preorder Traversal.md",
     "DSA/Problems/Top K Frequent Elements.md",
     "DSA/Problems/2 Pointer.md",
     "Go/Inversion of Control using a Server Register.md",
@@ -203,10 +204,8 @@
     "System Design/@Useful Links.md",
     "System Design/9 - Hashing.md",
     "Pasted image 20230507140437.png",
-    "System Design/8 - Load Balancers.md",
     "Assets/Pasted image 20230506135625.png",
     "Assets/Pasted image 20230506141854.png",
-    "System Design/7 - Proxies.md",
     "Assets/Pasted image 20230506122405.png",
     "Assets/Pasted image 20230506122244.png",
     "System Design/Storage",
