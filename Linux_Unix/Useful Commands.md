@@ -26,6 +26,12 @@ killall snap-store
 sudo snap refresh snap-store
 ```
 
+## Install CURL
+
+```shell
+
+```
+
 # Reading data from a file and manipulating output
 
 ```bash
@@ -60,4 +66,12 @@ LANG=en_US.UTF-8 snap list --all | awk '/disabled/{print $1, $3}' |
     while read snapname revision; do
         snap remove "$snapname" --revision="$revision"
     done
+```
+
+# Install PNPM on Ubuntu
+
+Don't be a dummy. Just use:
+
+```shell
+npm i -g pnpm
 ```

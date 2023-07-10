@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Problems/Sliding Window.md",
+                "file": "Linux_Unix/NVM Installation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Problems/Sliding Window.md",
+                "file": "Linux_Unix/NVM Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Problems/Sliding Window.md",
+                "file": "Linux_Unix/NVM Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,23 +134,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Problems/Sliding Window.md"
+                "file": "Linux_Unix/NVM Installation.md"
               }
             }
           },
           {
-            "id": "b48434cdabca1a04",
+            "id": "eb13b31e1f6a645d",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           },
           {
-            "id": "9e3148f0dd131207",
+            "id": "3ab2736144469762",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +176,10 @@
   },
   "active": "20dd4ccb1622efd7",
   "lastOpenFiles": [
-    "DSA/Problems/Trees.md",
+    "Linux_Unix/Useful Commands.md",
+    "Linux_Unix/NVM Installation.md",
     "DSA/Problems/Sliding Window.md",
+    "DSA/Problems/Trees.md",
     "DSA/Binary Tree Preorder Traversal.md",
     "System Design/12 - Rate Limiting.md",
     "System Design/Notes.md",
@@ -201,8 +204,6 @@
     "System Design/10 - Relational Databases.md",
     "System Design/@Glossary.md",
     "System Design/Glossary.md",
-    "System Design/@Useful Links.md",
-    "System Design/9 - Hashing.md",
     "Pasted image 20230507140437.png",
     "Assets/Pasted image 20230506135625.png",
     "Assets/Pasted image 20230506141854.png",
