@@ -1,33 +1,33 @@
-### Disk Usage
+## Disk Usage
+
 Shows metrics for our usage metrics
 
 ```sh
 df -h
 ```
 
-### Restart a service and check status of a service
+## Restart a service and check status of a service
+
 ```sh
 systemctl restart {service}
 systemctl status {service}
 ```
 
-### Install Ping
+## Install Ping
+
 ```sh
 apt-get update && apt-get install iputils-ping
 ```
 
 ### Update Snap store
+
 ```shell
 killall snap-store
 sudo snap refresh snap-store
 ```
 
-### Install CURL
-```shell
-sudo apt install curl
-```
+# Reading data from a file and manipulating output
 
-### Reading data from a file and manipulating output
 ```bash
 $(cat apps/distributor/package.json | grep version | head -1 | awk -F: '{ print $2 }' | sed 's/[\",]//g' | tr -d '[[:space:]]')
 ```
@@ -44,7 +44,8 @@ $(cat apps/distributor/package.json | grep version | head -1 | awk -F: '{ print 
 
 6) `tr -d '[[:space:]]'`: This command uses tr (translate) to delete all whitespace characters (spaces, tabs, and newlines) from the output. It ensures that the version number does not contain any leading or trailing spaces.
 
-### Cleaning Up Disk Space
+# Cleaning Up Disk Space
+
 1) Make use of the inbuilt Disk Analyzer to find out what is taking space
 2) Use Bleachbit to cleanup other cheeky bits
 3) The below will go and get rid of ugly disabled snaps because we use the perfect distro Ubuntu:
@@ -59,17 +60,4 @@ LANG=en_US.UTF-8 snap list --all | awk '/disabled/{print $1, $3}' |
     while read snapname revision; do
         snap remove "$snapname" --revision="$revision"
     done
-```
-
-### Install PNPM on Ubuntu
-Don't be a dummy. Just use:
-
-```shell
-npm i -g pnpm
-```
-
-### Kill Process
-```shell
-ps aux | grep {query}
-kill -9 7469
 ```
