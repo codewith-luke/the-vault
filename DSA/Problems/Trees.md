@@ -224,21 +224,3 @@ const isSubtree = (root, subRoot) => {
   return dfs(root);
 };
 ```
-
-# Valid BST
-
-```js
-const isValidBST = function(root) {
-    return isBalanced(root, -Infinity, Infinity)
-};
-
-function isBalanced(node, min, max) {
-  if (!node) return true;
-  if (node?.val < min || node?.val > max) return false;
-
-  const left = isBalanced(node.left, min, node.val - 1);
-  const right = isBalanced(node.right, node.val + 1, max);
-
-  return left && right;
-}
-```
