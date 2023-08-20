@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"cf3724003dd21e76","x":-120,"y":-1100,"width":212,"height":168,"type":"file","file":"Disclone/Learning Objectives.md"},
-		{"type":"file","file":"Disclone/Tasks.md","id":"640f34f92de8627a","x":-600,"y":-1100,"width":400,"height":400}
-	],
-	"edges":[]
-}

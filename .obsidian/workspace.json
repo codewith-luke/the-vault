@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "71e0df2e216a98e9",
+        "id": "8496eae6d5569ada",
         "type": "tabs",
         "children": [
           {
-            "id": "e76b00c454c168ae",
+            "id": "ae1edd1020ac2c03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux_Unix/Useful Commands.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +69,22 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e76b00c454c168ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Disclone/System Architecture.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "right": {
     "id": "42f80048025eb5e1",
@@ -94,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux_Unix/Useful Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux_Unix/Useful Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux_Unix/Useful Commands.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -143,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,37 +161,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e76b00c454c168ae",
+  "active": "ae1edd1020ac2c03",
   "lastOpenFiles": [
-    "Useful Jetbrains Keybinds.md",
-    "Stockr/Drawing 2023-07-13 18.28.00.excalidraw.md",
-    "Linux_Unix/NVM Installation.md",
-    "Stockr",
+    "JS_TS/@JS_TS.md",
+    "JS_TS/Useful JS API & Libs/Mutation Observer.md",
     "Linux_Unix/Useful Commands.md",
-    "DSA/Problems/Sliding Window.md",
+    "Containers/Docker/Core/7 - Other Commands.md",
+    "DB/Postgres/Connecting to Postgres.md",
+    "Containers/@Containers Overview.md",
+    "Containers/@Useful Links.md",
+    "JS_TS/TS/Type Transformations/@Type Transformations Overview.md",
+    "JS_TS/TS/Type Transformations/@Helpful Uses.md",
+    "DSA/Problems/@Problems Overview.md",
     "DSA/Problems/Trees.md",
-    "DSA/Binary Tree Preorder Traversal.md",
-    "System Design/12 - Rate Limiting.md",
-    "System Design/Notes.md",
-    "DSA/Problems/Binary Search.md",
-    "DSA/Problems/Top K Frequent Elements.md",
-    "DSA/Problems/2 Pointer.md",
-    "Go/Inversion of Control using a Server Register.md",
-    "Assets/Pasted image 20230507140437.png",
-    "JS_TS/Node/External Processes (Child).md",
-    "To Learn.md",
-    "DSA/Problems",
-    "Go/Go.md",
-    "Containers/Docker/Core/3 - Docker Exec.md",
-    "Containers/Docker/@Docker Overview.md",
+    "README.md",
+    "@Useful Links.md",
+    "Assets/IP's.md",
+    "Linux_Unix/@Linux Overview.md",
+    "Linux_Unix/NVIM/Notes.md",
     "Linux_Unix/Linux_Unix.md",
-    "System Design/11 - Replication & Sharding.md",
-    "System Design/10 - Specialized Storage.md",
-    "Articles/Seeding a DB with Docker.md",
+    "Linux_Unix/NVM Installation.md",
+    "DSA/@DSA Overview.md",
+    "DSA/Problems/Top K Frequent Elements.md",
+    "DB/@DB Overview.md",
     "DB/Databases.md",
-    "JS_TS/Node/Design Patterns.md",
+    "DSA/@Useful Links.md",
+    "Go/Go.md",
     "Go/@Useful Links and Libs.md",
-    "System Design/10 - Relational Databases.md",
+    "Go/Inversion of Control using a Server Register.md",
+    "Disclone/Pasted Image 20230809193229_688.png",
+    "Disclone/Disclone.canvas",
+    "Pasted Image 20230809193229_688.png",
+    "Disclone/Untitled.canvas",
+    "Jetbrains",
+    "Stockr",
+    "Assets/Pasted image 20230507140437.png",
+    "DSA/Problems",
     "Pasted image 20230507140437.png",
     "Assets/Pasted image 20230506135625.png",
     "Assets/Pasted image 20230506141854.png",

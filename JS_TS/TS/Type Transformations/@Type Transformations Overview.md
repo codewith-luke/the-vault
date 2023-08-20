@@ -1,5 +1,6 @@
 # Table of Content
 
+- [[JS_TS/TS/Type Transformations/@Helpful Uses|@Helpful Uses]]
 - [[Inference]]
 - [[Unions and Indexing]]
 - [[Template Literals]]
