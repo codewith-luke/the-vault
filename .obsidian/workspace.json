@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71e0df2e216a98e9",
+        "id": "172c14a7a9b5d7c0",
         "type": "tabs",
         "children": [
           {
-            "id": "20dd4ccb1622efd7",
+            "id": "af63cbcb1d2aa6a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Notes.md",
+                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "er container restart ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/Notes.md",
+                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/Notes.md",
+                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,33 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Notes.md"
+                "file": "AWS/02c - Elastic Compute (EC2) Basics.md"
               }
-            }
-          },
-          {
-            "id": "007d40437e2054e3",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "d3b0b1a5f53aa4a0",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,50 +154,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20dd4ccb1622efd7",
+  "active": "af63cbcb1d2aa6a2",
   "lastOpenFiles": [
-    "DSA/Problems/Trees.md",
-    "System Design/Notes.md",
-    "DSA/Problems/Binary Search.md",
-    "DSA/Binary Tree Preorder Traversal.md",
-    "DSA/Problems/Top K Frequent Elements.md",
-    "DSA/Problems/2 Pointer.md",
-    "Go/Inversion of Control using a Server Register.md",
-    "Assets/Pasted image 20230507140437.png",
-    "JS_TS/Node/External Processes (Child).md",
+    "AWS/@Solution Architect Associate.md",
+    "AWS/02c - Elastic Compute (EC2) Basics.md",
+    "AWS/assets/Pasted image 20230827134141.png",
+    "AWS/01 - AWS Accounts.md",
+    "AWS/02b - Virtual Private Cloud Basics (VPC).md",
+    "AWS/02a - Global Infrastructure.md",
+    "AWS/assets/Pasted image 20230827125215.png",
+    "AWS/assets/Pasted image 20230827123341.png",
+    "AWS/assets/Pasted image 20230824084909.png",
+    "AWS/assets/Pasted image 20230827123132.png",
+    "AWS/assets/Pasted image 20230827123054.png",
+    "AWS/assets/Pasted image 20230825142335.png",
+    "AWS/assets/Pasted image 20230823085815.png",
+    "Go/Gobs.md",
+    "Go/Go TCP.md",
+    "Pasted image 20230824084909.png",
+    "Pasted image 20230823085815.png",
+    "Disclone/Orchestrator/Communication Scenarios.md",
+    "Disclone/Orchestrator/@Orchestrator.md",
+    "Disclone/Orchestrator",
+    "AWS/assets",
+    "Disclone/Orchestrator.md",
+    "JS_TS/@JS_TS.md",
+    "DSA/Problems/@Problems Overview.md",
+    "Linux_Unix/@Linux Overview.md",
+    "DSA/@DSA Overview.md",
+    "AWS",
+    "JS_TS/TS/Advanced Patterns/@Advanced Patterns Overview.md",
+    "System Design/@System Design Overview.md",
+    "Disclone/@Disclone.md",
+    "Disclone/System Architecture.md",
+    "Disclone/Learning Objectives.md",
     "To Learn.md",
+    "Stockr/Drawing 2023-07-13 18.28.00.excalidraw.md",
+    "Disclone/Disclone.canvas",
+    "Disclone/Tasks.md",
+    "Useful Jetbrains Keybinds.md",
+    "DSA/Problems/Sliding Window.md",
+    "System Design/12 - Rate Limiting.md",
+    "Jetbrains",
+    "Disclone",
+    "Stockr",
     "DSA/Problems",
-    "Go/Go.md",
-    "Containers/Docker/Core/3 - Docker Exec.md",
-    "Containers/Docker/@Docker Overview.md",
-    "Linux_Unix/Linux_Unix.md",
-    "System Design/11 - Replication & Sharding.md",
-    "System Design/10 - Specialized Storage.md",
-    "Articles/Seeding a DB with Docker.md",
-    "DB/Databases.md",
-    "JS_TS/Node/Design Patterns.md",
-    "Go/@Useful Links and Libs.md",
-    "System Design/10 - Relational Databases.md",
-    "System Design/@Glossary.md",
-    "System Design/Glossary.md",
-    "System Design/@Useful Links.md",
-    "System Design/9 - Hashing.md",
-    "Pasted image 20230507140437.png",
-    "System Design/8 - Load Balancers.md",
-    "Assets/Pasted image 20230506135625.png",
-    "Assets/Pasted image 20230506141854.png",
-    "System Design/7 - Proxies.md",
-    "Assets/Pasted image 20230506122405.png",
-    "Assets/Pasted image 20230506122244.png",
-    "System Design/Storage",
+    "nohup.out",
     "System Design",
-    "Go",
-    "AI",
-    "Go",
-    "Linux_Unix/NVIM",
-    "JS_TS/TS/Advanced Patterns"
+    "Go"
   ]
 }
