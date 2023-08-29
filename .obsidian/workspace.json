@@ -73,12 +73,22 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e76b00c454c168ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Disclone/System Architecture.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "right": {
     "id": "42f80048025eb5e1",
