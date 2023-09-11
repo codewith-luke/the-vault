@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ffd38cfa9b147dcd",
+        "id": "172c14a7a9b5d7c0",
         "type": "tabs",
         "children": [
           {
-            "id": "7b9602539c77d312",
+            "id": "af63cbcb1d2aa6a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Articles.md",
+                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "er container restart ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,22 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e76b00c454c168ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Disclone/System Architecture.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "right": {
     "id": "42f80048025eb5e1",
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Articles.md",
+                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Articles.md",
+                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/Articles.md"
+                "file": "AWS/02c - Elastic Compute (EC2) Basics.md"
               }
             }
           }
@@ -143,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,52 +168,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7888755a5261efeb",
+  "active": "af63cbcb1d2aa6a2",
   "lastOpenFiles": [
-    "Articles/Seeding a DB with Docker.md",
-    "Articles/Articles.md",
-    "AI/AI.md",
-    "AI/Prompts.md",
-    "@Useful Links.md",
-    "Disclone/Pasted Image 20230809193229_688.png",
+    "AWS/@Solution Architect Associate.md",
+    "AWS/02c - Elastic Compute (EC2) Basics.md",
+    "AWS/assets/Pasted image 20230827134141.png",
+    "AWS/01 - AWS Accounts.md",
+    "AWS/02b - Virtual Private Cloud Basics (VPC).md",
+    "AWS/02a - Global Infrastructure.md",
+    "AWS/assets/Pasted image 20230827125215.png",
+    "AWS/assets/Pasted image 20230827123341.png",
+    "AWS/assets/Pasted image 20230824084909.png",
+    "AWS/assets/Pasted image 20230827123132.png",
+    "AWS/assets/Pasted image 20230827123054.png",
+    "AWS/assets/Pasted image 20230825142335.png",
+    "AWS/assets/Pasted image 20230823085815.png",
+    "Go/Gobs.md",
+    "Go/Go TCP.md",
+    "Pasted image 20230824084909.png",
+    "Pasted image 20230823085815.png",
+    "Disclone/Orchestrator/Communication Scenarios.md",
+    "Disclone/Orchestrator/@Orchestrator.md",
+    "Disclone/Orchestrator",
+    "AWS/assets",
+    "Disclone/Orchestrator.md",
+    "JS_TS/@JS_TS.md",
+    "DSA/Problems/@Problems Overview.md",
+    "Linux_Unix/@Linux Overview.md",
+    "DSA/@DSA Overview.md",
+    "AWS",
+    "JS_TS/TS/Advanced Patterns/@Advanced Patterns Overview.md",
+    "System Design/@System Design Overview.md",
+    "Disclone/@Disclone.md",
     "Disclone/System Architecture.md",
-    "Useful Jetbrains Keybinds.md",
-    "To Learn.md",
     "Disclone/Learning Objectives.md",
-    "Containers/Docker/Core/1 - Basics.md",
-    "Disclone/Disclone.canvas",
-    "Disclone/Architecture Diagram.md",
-    "Disclone/Tasks.md",
-    "Disclone/Work Board.md",
-    "Disclone/test note 2.md",
-    "DSA/Problems/Tries.md",
-    "DSA/Problems/Stacks.md",
-    "Disclone/test note.md",
-    "Disclone/Untitled.canvas",
-    "Disclone",
-    "Mentorship/Goals.md",
-    "Mentorship",
-    "README.md",
-    "JS_TS/TS/Generics/@Helpful Uses.md",
-    "JS_TS/TS/Generics/Advanced Generics.md",
+    "To Learn.md",
     "Stockr/Drawing 2023-07-13 18.28.00.excalidraw.md",
-    "JS_TS/TS/Type Transformations/Unions and Indexing.md",
-    "JS_TS/TS/Generics/Art of Type Arguments.md",
-    "JS_TS/TS/Generics/@Generics Overview.md",
-    "Jetbrains/Keybinds Luke forgets.md",
+    "Disclone/Disclone.canvas",
+    "Disclone/Tasks.md",
+    "Useful Jetbrains Keybinds.md",
+    "DSA/Problems/Sliding Window.md",
+    "System Design/12 - Rate Limiting.md",
     "Jetbrains",
+    "Disclone",
     "Stockr",
-    "Assets/Pasted image 20230507140437.png",
     "DSA/Problems",
-    "Pasted image 20230507140437.png",
-    "Assets/Pasted image 20230506135625.png",
-    "Assets/Pasted image 20230506141854.png",
-    "Assets/Pasted image 20230506122405.png",
-    "Assets/Pasted image 20230506122244.png",
-    "System Design/Storage",
+    "nohup.out",
     "System Design",
-    "Go",
-    "AI",
     "Go"
   ]
 }

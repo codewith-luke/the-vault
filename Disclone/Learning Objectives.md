@@ -1,4 +1,4 @@
-
+#disclone 
 ## What do I want to learn?
 
 - Networking
@@ -16,7 +16,7 @@
 	- Service discovery
 - Caching strategies
 - File Upload
-	- Cloudflate Buckets?
+	- Cloudflare Buckets
 - Message encryption
 - Video Streaming
 	- https://webrtc.github.io/samples/

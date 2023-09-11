@@ -1,3 +1,5 @@
+#db
+
 **If you are running postgres within a container make sure to first connect to it either as the DB user or switch to the db user once connected.**
 
 If you have connected to the container already run the following as per note above.
