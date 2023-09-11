@@ -13,6 +13,7 @@ tags:
 **IAM, ACCOUNTS AND AWS ORGANISATIONS**
 [[01a - AWS Accounts]]
 [[01b - IAM Identity Policies]]
+[[01c - IAM Users]]
 
 **AWS FUNDAMENTALS**
 [[02a - Global Infrastructure]]
