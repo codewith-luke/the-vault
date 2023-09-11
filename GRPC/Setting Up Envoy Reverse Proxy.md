@@ -1,5 +1,4 @@
 #grpc
-# Setting Up Reverse Proxy
 
 Before we can go further we have to create a [reverse proxy](https://grpc.io/blog/state-of-grpc-web/) in order for our front-end to make GRPC requests to our server. This is because it is mandatory to have a proxy for translating between gRPC-Web requests and gRPC HTTP/2 responses.
 

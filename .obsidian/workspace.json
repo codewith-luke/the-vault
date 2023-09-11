@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "172c14a7a9b5d7c0",
+        "id": "ffd38cfa9b147dcd",
         "type": "tabs",
         "children": [
           {
-            "id": "af63cbcb1d2aa6a2",
+            "id": "7b9602539c77d312",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
+                "file": "Linux_Unix/NVM Installation.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "020b8d63c5549922",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
               }
             }
           }
@@ -49,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "er container restart ",
+                "query": "curl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,22 +83,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "e76b00c454c168ae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Disclone/System Architecture.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 380.5
   },
   "right": {
     "id": "42f80048025eb5e1",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
+                "file": "Linux_Unix/NVM Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
+                "file": "Linux_Unix/NVM Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/02c - Elastic Compute (EC2) Basics.md"
+                "file": "Linux_Unix/NVM Installation.md"
               }
             }
           }
@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,53 +169,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af63cbcb1d2aa6a2",
+  "active": "7b9602539c77d312",
   "lastOpenFiles": [
-    "AWS/@Solution Architect Associate.md",
-    "AWS/02c - Elastic Compute (EC2) Basics.md",
-    "AWS/assets/Pasted image 20230827134141.png",
-    "AWS/01 - AWS Accounts.md",
-    "AWS/02b - Virtual Private Cloud Basics (VPC).md",
-    "AWS/02a - Global Infrastructure.md",
-    "AWS/assets/Pasted image 20230827125215.png",
-    "AWS/assets/Pasted image 20230827123341.png",
-    "AWS/assets/Pasted image 20230824084909.png",
-    "AWS/assets/Pasted image 20230827123132.png",
-    "AWS/assets/Pasted image 20230827123054.png",
-    "AWS/assets/Pasted image 20230825142335.png",
-    "AWS/assets/Pasted image 20230823085815.png",
+    "DSA/@DSA Overview.md",
+    "DSA/@DSA Overview.md~Stashed changes",
+    "DSA/@DSA Overview.md~Updated upstream",
+    "Disclone/Orchestrator/Orchestrator Architecture.md",
+    "AWS/assets/Pasted image 20230905091029.png",
+    "AWS/assets/Pasted image 20230905091049.png",
+    "AWS/assets/Pasted image 20230904110816.png",
+    "AWS/assets/Pasted image 20230904105654.png",
+    "AWS/assets/Pasted image 20230904105527.png",
+    "AWS/assets/Pasted image 20230903144525.png",
+    "AWS/assets/Pasted image 20230903144307.png",
+    "AWS/assets/Pasted image 20230903144117.png",
+    "AWS/assets/Pasted image 20230903143543.png",
+    "AWS/assets/Pasted image 20230903143250.png",
+    "AWS/@Basic EC2 Template.md",
+    "AWS/02 - AWS Fundamentals/02i - DNS Record Types.md",
+    "AWS/02 - AWS Fundamentals/02h - Route 53 Basics.md",
+    "AWS/02 - AWS Fundamentals/02g - High Availability + Fault Tolerance +Disaster Recovery.md",
+    "AWS/02 - AWS Fundamentals/02f - Shared Responsibility Model.md",
+    "AWS/02 - AWS Fundamentals/02e - Cloud Watch Basics.md",
+    "AWS/02 - AWS Fundamentals/02d - Cloud Formation.md",
+    "AWS/02 - AWS Fundamentals/02c - S3 Basics.md",
+    "AWS/02 - AWS Fundamentals/02c - Elastic Compute (EC2) Basics.md",
+    "AWS/02 - AWS Fundamentals/02b - Virtual Private Cloud Basics (VPC).md",
+    "AWS/02 - AWS Fundamentals/02a - Global Infrastructure.md",
+    "AWS/02 - AWS Fundamentals",
+    "AWS/01 - AWS Accounts/01c - IAM Users.md",
+    "AWS/01 - AWS Accounts/01b - IAM Identity Policies.md",
+    "AWS/01 - AWS Accounts/01a - AWS Accounts.md",
+    "AWS/01 - AWS Accounts",
+    "System Design/@System Design Overview.md",
+    "Linux_Unix/@Linux Overview.md",
     "Go/Gobs.md",
+    "JS_TS/TS/Advanced Patterns/@Advanced Patterns Overview.md",
+    "JS_TS/@JS_TS.md",
     "Go/Go TCP.md",
-    "Pasted image 20230824084909.png",
-    "Pasted image 20230823085815.png",
     "Disclone/Orchestrator/Communication Scenarios.md",
     "Disclone/Orchestrator/@Orchestrator.md",
     "Disclone/Orchestrator",
-    "AWS/assets",
-    "Disclone/Orchestrator.md",
-    "JS_TS/@JS_TS.md",
-    "DSA/Problems/@Problems Overview.md",
-    "Linux_Unix/@Linux Overview.md",
-    "DSA/@DSA Overview.md",
-    "AWS",
-    "JS_TS/TS/Advanced Patterns/@Advanced Patterns Overview.md",
-    "System Design/@System Design Overview.md",
     "Disclone/@Disclone.md",
-    "Disclone/System Architecture.md",
-    "Disclone/Learning Objectives.md",
-    "To Learn.md",
-    "Stockr/Drawing 2023-07-13 18.28.00.excalidraw.md",
-    "Disclone/Disclone.canvas",
-    "Disclone/Tasks.md",
-    "Useful Jetbrains Keybinds.md",
-    "DSA/Problems/Sliding Window.md",
-    "System Design/12 - Rate Limiting.md",
-    "Jetbrains",
-    "Disclone",
+    "DSA/Problems/@Problems Overview.md",
+    "AWS/assets",
+    "AWS",
     "Stockr",
-    "DSA/Problems",
-    "nohup.out",
-    "System Design",
-    "Go"
+    "Linux_Unix/NVIM",
+    "Jetbrains",
+    "Disclone/Disclone.canvas",
+    "Disclone/Untitled.canvas"
   ]
 }
