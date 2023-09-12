@@ -38,7 +38,7 @@ These two ARN's do not overlap. They reference specific aspects.
 
 ## Useful Things
 
-- Max 5000 IAM Users per account
-- IAM user can be a member of 10 groups
+- Max **5000** IAM Users per account
+- IAM user can be a member of **10** groups
 - This creates system design impacts
 - If you encounter a situation that you need large scale of users. This generally means you should be looking into **IAM Roles & Identity Federation**

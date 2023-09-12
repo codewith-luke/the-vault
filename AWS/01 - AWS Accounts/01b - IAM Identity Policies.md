@@ -1,5 +1,5 @@
 ---
-title: IAM Identity Policies
+title: 01b - IAM Identity Policies
 tags:
   - aws
 ---
@@ -27,5 +27,6 @@ In the above you may notice these statements overlap. The first statement basica
 ## Types of Policies
 
 - **Inline** - This is where apply the policies to each account that needs it. This comes with the issue that if you need to update a policy, everywhere that uses that policy needs to be updated. You would generally use these for special/exceptional allow/denies.
-- **Managed Policy** - These are created as their own object, then you can apply this to each account. So one source of truth. This should be used for common access writes for your organisation.
+- **Managed Policy** - These are created as their own object, then you can apply this to each account. So one source of truth. This should be used for common access writes for your organization.
 
+To see a good example checkout [[Demo Permissions]]

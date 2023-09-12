@@ -15,6 +15,7 @@ This can be considered as your default storage when it comes to AWS.
 	- *Buckets* are containers for objects
 
 ## Objects
+
 Objects have a key value, if you know the key value and the bucket you are able to retrieve the object.
 
 An object also has a value which is data stored in binary. This can range from a size of *0 Bytes - 5TB*

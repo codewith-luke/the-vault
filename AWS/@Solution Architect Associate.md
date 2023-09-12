@@ -14,6 +14,9 @@ tags:
 [[01a - AWS Accounts]]
 [[01b - IAM Identity Policies]]
 [[01c - IAM Users]]
+[[01d - IAM Groups]]
+[[01e - IAM Roles]]
+[[01f - Organizations]]
 
 **AWS FUNDAMENTALS**
 [[02a - Global Infrastructure]]
