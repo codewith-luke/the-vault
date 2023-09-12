@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "020b8d63c5549922",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ],
         "stacked": true
@@ -169,22 +159,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b9602539c77d312",
+  "active": "7888755a5261efeb",
   "lastOpenFiles": [
+    "AWS/01 - AWS Accounts/01g - Control Tower.md",
+    "Pasted image 20230912160257.png",
+    "AWS/assets/Pasted image 20230912142017.png",
+    "AWS/02 - AWS Fundamentals/02j - CloudTrail Essentials.md",
+    "AWS/01 - AWS Accounts/01f - Organizations.md",
+    "AWS/assets/Pasted image 20230912123648.png",
+    "AWS/assets/Pasted image 20230912123624.png",
+    "AWS/assets/Pasted image 20230912123204.png",
+    "Disclone/Death Star Auth/Drawing 2023-09-11 18.42.20.excalidraw.md",
+    "Disclone/Death Star Auth/@Death Star Auth.md",
+    "Disclone/HyperRouter Proxy/@HyperRouter Proxy.md",
+    "Disclone/HyperRouter Proxy/HyperRouter Architecture.md",
+    "AWS/01 - AWS Accounts/01e - IAM Roles.md",
+    "AWS/01 - AWS Accounts/01d - IAM Groups.md",
+    "AWS/assets/Pasted image 20230911131839.png",
+    "AWS/assets/Pasted image 20230911132133.png",
+    "AWS/assets/Pasted image 20230911132401.png",
+    "AWS/assets/Pasted image 20230911131501.png",
+    "AWS/assets/Pasted image 20230911124157.png",
+    "Disclone/Death Star Auth",
+    "Disclone/HyperRouter Proxy",
+    "AWS/Simple Identities Demo/Demo Permissions.md",
+    "AWS/Simple Identities Demo",
     "DSA/@DSA Overview.md",
     "DSA/@DSA Overview.md~Stashed changes",
     "DSA/@DSA Overview.md~Updated upstream",
     "Disclone/Orchestrator/Orchestrator Architecture.md",
-    "AWS/assets/Pasted image 20230905091029.png",
-    "AWS/assets/Pasted image 20230905091049.png",
-    "AWS/assets/Pasted image 20230904110816.png",
-    "AWS/assets/Pasted image 20230904105654.png",
-    "AWS/assets/Pasted image 20230904105527.png",
-    "AWS/assets/Pasted image 20230903144525.png",
-    "AWS/assets/Pasted image 20230903144307.png",
-    "AWS/assets/Pasted image 20230903144117.png",
-    "AWS/assets/Pasted image 20230903143543.png",
-    "AWS/assets/Pasted image 20230903143250.png",
     "AWS/@Basic EC2 Template.md",
     "AWS/02 - AWS Fundamentals/02i - DNS Record Types.md",
     "AWS/02 - AWS Fundamentals/02h - Route 53 Basics.md",
@@ -201,22 +204,9 @@
     "AWS/01 - AWS Accounts/01b - IAM Identity Policies.md",
     "AWS/01 - AWS Accounts/01a - AWS Accounts.md",
     "AWS/01 - AWS Accounts",
-    "System Design/@System Design Overview.md",
-    "Linux_Unix/@Linux Overview.md",
-    "Go/Gobs.md",
-    "JS_TS/TS/Advanced Patterns/@Advanced Patterns Overview.md",
-    "JS_TS/@JS_TS.md",
-    "Go/Go TCP.md",
-    "Disclone/Orchestrator/Communication Scenarios.md",
-    "Disclone/Orchestrator/@Orchestrator.md",
     "Disclone/Orchestrator",
-    "Disclone/@Disclone.md",
-    "DSA/Problems/@Problems Overview.md",
     "AWS/assets",
     "AWS",
-    "Stockr",
-    "Linux_Unix/NVIM",
-    "Jetbrains",
     "Disclone/Disclone.canvas",
     "Disclone/Untitled.canvas"
   ]
