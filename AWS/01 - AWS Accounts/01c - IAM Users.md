@@ -11,7 +11,7 @@ IAM Users are an identity used for anything requiring long-term AWS access e.g. 
 
 Represents an entity trying to access and AWS account, at this point it is unidentified. It needs to authenticate and be authorized to do anything.
 
-Authentication happens where principal proves to IAM that it is an identity that it claims to be.
+Authentication happens where [[@Terms#Principal]] proves to IAM that it is an identity that it claims to be.
 
 This is done via:
 - Username + Password

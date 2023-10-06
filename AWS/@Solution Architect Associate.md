@@ -5,8 +5,10 @@ tags:
 ---
 # Useful Links
 
-- Github Repo : [**https://github.com/acantril/aws-sa-associate-saac03**](https://github.com/acantril/aws-sa-associate-saac03)
-- Labs: https://github.com/acantril/learn-cantrill-io-labs
+-  [**Cantril Github Repo**](https://github.com/acantril/aws-sa-associate-saac03)
+- [Cantril Labs](https://github.com/acantril/learn-cantrill-io-labs)
+- [AWS White Papers](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all)
+- [AWS Blog](https://aws.amazon.com/blogs/devops/)
 
 ## Modules
 

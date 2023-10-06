@@ -32,7 +32,7 @@ IAM Roles have 2 types of policies that can be attached:
 
 ## When to use IAM Roles?
 
-- If you do not know the amount of principals who need access, roles are the ideal.
+- If you do not know the amount of [[@Terms#Principal]] who need access, roles are the ideal.
 
 - AWS Services (e.g. AWS Lambda)
 	- If you did not use a role here you would need to hardcode permissions into the lambda function. You should generally avoid this. This is a security and rotation issue.

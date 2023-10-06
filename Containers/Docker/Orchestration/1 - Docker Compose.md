@@ -33,3 +33,29 @@ docker-compose up -d
 ```sh
 docker-compose down
 ```
+
+## Running with environment file
+
+- [Source](https://docs.docker.com/compose/environment-variables/set-environment-variables/)
+
+There are a couple of ways to run `docker compose` with environment variables. 
+#### Env File Argument
+
+```sh
+docker compose --env-file .development.env up
+```
+
+#### Inline in compose file
+Important note. These files have to exist or it will error. 
+
+Also if there are multiple *.env* files it will prioritize them in the order and overwrite if there are duplicates. 
+
+```yaml
+version: '3'
+services:
+  service_a:
+    env_file:
+        - .development.env
+        - .env
+## **remaining config**
+```

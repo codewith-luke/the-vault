@@ -28,5 +28,5 @@ Another trick question is around an *all group*. There is no such thing in AWS. 
 - 300 Groups per account (can be increased with a ticket)
 - Can't be logged into
 - Allow/Deny rules still apply with multiple policies across groups and inline
-- Groups are *not* a *true identity*. They can't be referenced as a principal in a policy. 
+- Groups are *not* a *true identity*. They can't be referenced as a [[@Terms#Principal]] in a policy. 
 	  - An example of this would be with resource policy you can actually reference a user or a role. This is not the case with groups.

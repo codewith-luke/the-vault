@@ -1,8 +1,8 @@
 #system
 
 - [[@Glossary]]
-- [[System Design/@Useful Links|@Useful Links]]
-- [[System Design/Notes|Notes]]
+- [[System Architecture & Design/@Useful Links|@Useful Links]]
+- [[Notes|Notes]]
 - [[1 - Client - Server Model]]
 - [[2 - Network Protocols]]
 - [[3 - Storage]]
