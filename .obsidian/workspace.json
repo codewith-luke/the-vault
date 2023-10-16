@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ffd38cfa9b147dcd",
+        "id": "97824c3c129990e0",
         "type": "tabs",
         "children": [
           {
-            "id": "7b9602539c77d312",
+            "id": "da0bb3422f180395",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS_TS/TS/Type Transformations/Type Helpers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09575324ec00fcff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -180,22 +165,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7888755a5261efeb",
+  "active": "da0bb3422f180395",
   "lastOpenFiles": [
-    "AWS/assets/Pasted image 20231005150415.png",
-    "AWS/assets/Pasted image 20231005145631.png",
-    "AWS/assets/Pasted image 20231005144849.png",
-    "AWS/assets/Pasted image 20231005143324.png",
-    "AWS/assets/Pasted image 20231005143823.png",
-    "AWS/assets/Pasted image 20231005145235.png",
-    "AWS/assets/Pasted image 20231005144027.png",
-    "AWS/assets/Pasted image 20231005140149.png",
-    "AWS/assets/Pasted image 20231005151744.png",
-    "AWS/assets/Pasted image 20231005140345.png",
+    "AWS/assets/Pasted image 20231012084001.png",
+    "AWS/assets/Pasted image 20231012084156.png",
+    "AWS/assets/Pasted image 20231012085332.png",
+    "AWS/assets/Pasted image 20231012084412.png",
+    "AWS/04 - VPC/04a - VPC Sizing and Structure Process.md",
+    "AWS/04 - VPC/004 - VPC Introduction.md",
+    "AWS/03 - S3/003 - Introduction.md",
+    "AWS/04 - VPC",
+    "AWS/03 - S3/03p - Multi-Region Access Points (MRAP).md",
+    "AWS/assets/Pasted image 20231009164804.png",
+    "AWS/assets/Pasted image 20231009160212.png",
+    "AWS/assets/Pasted image 20231009165413.png",
+    "AWS/assets/Pasted image 20231009163516.png",
+    "AWS/assets/Pasted image 20231009162924.png",
+    "AWS/03 - S3/03o - Access Points.md",
+    "AWS/03 - S3/03n - Object Lock.md",
+    "AWS/03 - S3/03m - Access Logs.md",
+    "AWS/03 - S3/03l - S3 Events.md",
+    "AWS/03 - S3/03k - Select and Glacier Select.md",
+    "AWS/03 - S3/03j - Presigned URL.md",
+    "AWS/assets/Pasted image 20231009145533.png",
+    "AWS/assets/Pasted image 20231006141002.png",
+    "AWS/03 - S3/03i - Replication.md",
     "AWS/03 - S3/03h - Lifecycle Configuration.md",
     "AWS/03 - S3/03g - Storage Classes.md",
     "AWS/03 - S3/03f - Server Side Encryption SSE.md",
-    "AWS/assets/Pasted image 20231005131318.png",
     "AWS/03 - S3/03e - Key Management Service (KMS).md",
     "AWS/03 - S3/03d - Performance & Optimization.md",
     "Disclone/Death Star Auth/DS Auth Doodles.md",
@@ -207,17 +204,6 @@
     "AWS/@Terms.md",
     "AWS/03 - S3/03a - S3 Security.md",
     "System Architecture & Design/@Useful Links.md",
-    "System Architecture & Design/@Glossary.md",
-    "System Architecture & Design/10 - Specialized Storage.md",
-    "System Architecture & Design/11 - Replication & Sharding.md",
-    "System Architecture & Design/2 - Network Protocols.md",
-    "System Architecture & Design/Notes.md",
-    "System Architecture & Design/6 - Caching.md",
-    "System Architecture & Design/1 - Client - Server Model.md",
-    "System Architecture & Design/5 - Availability.md",
-    "System Architecture & Design/3 - Storage.md",
-    "System Architecture & Design/4- Latency & Throughput.md",
-    "System Architecture & Design/8 - Load Balancers.md",
     "AWS/03 - S3",
     "System Architecture & Design",
     "Disclone/Death Star Auth",
@@ -227,7 +213,6 @@
     "DSA/@DSA Overview.md~Updated upstream",
     "AWS/02 - AWS Fundamentals",
     "AWS/01 - AWS Accounts",
-    "Disclone/Orchestrator",
     "Disclone/Disclone.canvas",
     "Disclone/Untitled.canvas"
   ]

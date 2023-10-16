@@ -22,6 +22,7 @@ tags:
 - Not good for strong regulated environments and control over keys
 - Not good for Rotation of keys
 - Not good for Role separation (Can't stop a S3 full admin)
+- Encryption shows as AES256
 
 ![[Pasted image 20231005130619.png]]
 

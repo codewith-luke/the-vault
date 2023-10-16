@@ -30,8 +30,6 @@ A set of policies, tools & procedures to enable the recovery or continuation of 
 *HA & FT* are about creating systems that are able to cope through disaster. Disaster recovery is about planning for and what to do when the above do not work? 
 
 This is a multi-stage set of processes on what needs to be done. This is about understanding where to find, how to access and what responsibilities need to be handled and what processes need to be followed.
-
-
 ### Summary
 
 - High Availability - Minimize any outages
