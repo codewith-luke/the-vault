@@ -10287,6 +10287,46 @@ DS ^P2Qz1DDt
 			"isDeleted": false,
 			"id": "LcW57ltz",
 			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3464.910519551446,
+			"y": -2397.2152362698816,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 5.0179079231314745,
+			"height": 227.5,
+			"seed": 1252769704,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1697141069399,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.0179079231314745,
+					227.5
+				]
+			],
+			"lastCommittedPoint": null
+		},
+		{
+			"type": "rectangle",
+			"version": 291,
+			"versionNonce": 955514364,
+			"isDeleted": false,
+			"id": "BBCgB7Fns8t8_AvN95jB9",
+			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 2,
