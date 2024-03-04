@@ -191,3 +191,11 @@ declare global {
   }
 }
 ```
+
+# Debug Prettify Helper
+
+```ts
+type Prettify<T> = {
+	[K in keyof T]: T[K]
+} & {};
+```

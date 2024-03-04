@@ -224,3 +224,28 @@ const isSubtree = (root, subRoot) => {
   return dfs(root);
 };
 ```
+
+# Validate BST
+
+```js
+const isValidBST = function(root) {
+    let valid = true;
+
+    function wrap(node, min, max) {
+        if (!node) return;
+        
+        if(!(node.val > min) || !(node.val < max)) {
+            valid = false;
+            return;
+        };
+        
+    
+        wrap(node.left, min, node.val);
+        wrap(node.right, node.val, max);
+    }
+
+    wrap(root, -Infinity, Infinity);
+
+    return valid;
+};
+```

@@ -8,3 +8,4 @@ In each section there is a link to the repo with all the examples.
 - [[@Type Transformations Overview]]
 - [[@Generics Overview]]
 - [[@Advanced Patterns Overview]]
+- [TS Config Cheat Sheet](totaltypescript.com/tsconfig-cheat-sheet)

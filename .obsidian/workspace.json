@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "172c14a7a9b5d7c0",
+        "id": "dbcb6e2e87a98140",
         "type": "tabs",
         "children": [
           {
-            "id": "af63cbcb1d2aa6a2",
+            "id": "8237ed9711bd210a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
+                "file": "AWS/08 - R53-Global DNS/008 - R53.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -49,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "er container restart ",
+                "query": "declare glo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,17 +79,15 @@
             "id": "e76b00c454c168ae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Disclone/System Architecture.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "right": {
     "id": "42f80048025eb5e1",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
+                "file": "AWS/08 - R53-Global DNS/008 - R53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/02c - Elastic Compute (EC2) Basics.md",
+                "file": "AWS/08 - R53-Global DNS/008 - R53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/02c - Elastic Compute (EC2) Basics.md"
+                "file": "AWS/08 - R53-Global DNS/008 - R53.md"
+              }
+            }
+          },
+          {
+            "id": "bc9f92c12f485faf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -153,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,53 +179,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af63cbcb1d2aa6a2",
+  "active": "7888755a5261efeb",
   "lastOpenFiles": [
+    "AWS/assets/Pasted image 20240304084938.png",
+    "AWS/08 - R53-Global DNS",
     "AWS/@Solution Architect Associate.md",
-    "AWS/02c - Elastic Compute (EC2) Basics.md",
-    "AWS/assets/Pasted image 20230827134141.png",
-    "AWS/01 - AWS Accounts.md",
-    "AWS/02b - Virtual Private Cloud Basics (VPC).md",
-    "AWS/02a - Global Infrastructure.md",
-    "AWS/assets/Pasted image 20230827125215.png",
-    "AWS/assets/Pasted image 20230827123341.png",
-    "AWS/assets/Pasted image 20230824084909.png",
-    "AWS/assets/Pasted image 20230827123132.png",
-    "AWS/assets/Pasted image 20230827123054.png",
-    "AWS/assets/Pasted image 20230825142335.png",
-    "AWS/assets/Pasted image 20230823085815.png",
-    "Go/Gobs.md",
-    "Go/Go TCP.md",
-    "Pasted image 20230824084909.png",
-    "Pasted image 20230823085815.png",
-    "Disclone/Orchestrator/Communication Scenarios.md",
-    "Disclone/Orchestrator/@Orchestrator.md",
-    "Disclone/Orchestrator",
-    "AWS/assets",
-    "Disclone/Orchestrator.md",
-    "JS_TS/@JS_TS.md",
-    "DSA/Problems/@Problems Overview.md",
-    "Linux_Unix/@Linux Overview.md",
-    "DSA/@DSA Overview.md",
-    "AWS",
-    "JS_TS/TS/Advanced Patterns/@Advanced Patterns Overview.md",
-    "System Design/@System Design Overview.md",
-    "Disclone/@Disclone.md",
-    "Disclone/System Architecture.md",
-    "Disclone/Learning Objectives.md",
-    "To Learn.md",
-    "Stockr/Drawing 2023-07-13 18.28.00.excalidraw.md",
-    "Disclone/Disclone.canvas",
-    "Disclone/Tasks.md",
-    "Useful Jetbrains Keybinds.md",
-    "DSA/Problems/Sliding Window.md",
-    "System Design/12 - Rate Limiting.md",
-    "Jetbrains",
-    "Disclone",
-    "Stockr",
-    "DSA/Problems",
-    "nohup.out",
-    "System Design",
-    "Go"
+    "AWS/08 - R53-Global DNS/008 - R53.md",
+    "AWS/@Basic EC2 Template.md",
+    "AWS/07 - Advanced EC2/07f - Enhanced Networking & EBS Optimized.md",
+    "AWS/assets/Pasted image 20240229084748.png",
+    "AWS/07 - Advanced EC2/07e - Dedicated Hosts.md",
+    "AWS/assets/Pasted image 20240227090212.png",
+    "AWS/07 - Advanced EC2/07d - Placement Groups.md",
+    "AWS/assets/Pasted image 20240227085415.png",
+    "AWS/assets/Pasted image 20240227085106.png",
+    "AWS/07 - Advanced EC2/07c - System and Application Logging.md",
+    "AWS/assets/Pasted image 20240226084359.png",
+    "AWS/02 - AWS Fundamentals/02k - Systems Manager Parameter Store.md",
+    "AWS/assets/Pasted image 20240222085338.png",
+    "AWS/07 - Advanced EC2/07b - EC2 Instance Roles.md",
+    "AWS/assets/Pasted image 20240222083623.png",
+    "JS_TS/TS/Advanced Patterns/Globals.md",
+    "JS_TS/TS/Advanced Patterns/@Helpful Advanced Types.md",
+    "AWS/07 - Advanced EC2/07a - AWS CloudFormation Init.md",
+    "AWS/assets/Pasted image 20240221084626.png",
+    "AWS/07 - Advanced EC2/007 - Advanced EC2.md",
+    "AWS/assets/Pasted image 20240219085348.png",
+    "AWS/06 - Containers & ECS/06c - Elastic Container Register.md",
+    "AWS/07 - Advanced EC2",
+    "AWS/06 - Containers & ECS/06b - Elastic Container Service Concepts.md",
+    "AWS/assets/Pasted image 20240213084428.png",
+    "AWS/06 - Containers & ECS/06a - Creating EC2 with Container.md",
+    "IdeaVIM.md",
+    "AWS/06 - Containers & ECS/006 - Introduction to Containers.md",
+    "Containers/Docker/Core/4 - Images Instructions.md",
+    "AWS/06 - Containers & ECS",
+    "AWS/01 - AWS Accounts/01f - Organizations.md",
+    "AWS/05 - Elastic Compute Cloud (EC2)/05c - Storage.md",
+    "AWS/05 - Elastic Compute Cloud (EC2)/05i - Instance Metadata.md",
+    "AWS/05 - Elastic Compute Cloud (EC2)/05h - Horizontal vs Vertical Scaling.md",
+    "AWS/05 - Elastic Compute Cloud (EC2)/05g - Instance Status Checks and Autorecovery.md",
+    "AWS/05 - Elastic Compute Cloud (EC2)/05f - EC2 Purchase Options.md",
+    "AWS/Dynamo",
+    "AWS/05 - Elastic Compute Cloud (EC2)",
+    "MoneyHubChall",
+    "AWS/04 - VPC",
+    "AWS/03 - S3",
+    "Disclone/Death Star Auth",
+    "Disclone/HyperRouter Proxy",
+    "Disclone/Disclone.canvas"
   ]
 }
